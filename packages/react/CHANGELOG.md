@@ -1,5 +1,12 @@
 # @floating-ui/react
 
+## 0.26.20
+
+### Patch Changes
+
+- fix(useListNavigation): avoid reading ref in render
+- Update dependencies: `@floating-ui/utils@0.2.5`
+
 ## 0.26.19
 
 ### Patch Changes
